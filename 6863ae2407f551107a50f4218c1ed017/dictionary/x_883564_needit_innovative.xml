@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Innovative" max_length="40" name="x_883564_needit_innovative" sizeclass="0" type="collection">
+        <element label="Idea Implemented" max_length="40" name="idea_implemented" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Idea type" mandatory="true" max_length="40" name="idea_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+            </choice>
+        </element>
+        <element default="50" label="Long decription" max_length="500" name="long_decription" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Short Description" max_length="200" name="short_description" type="string"/>
+    </element>
+</database>

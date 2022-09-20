@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="idea_type" table="x_883564_needit_innovative" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>idea_type</element>
+            <name>x_883564_needit_innovative</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-10 17:48:43</sys_created_on>
+            <sys_id>2f39216607b519107a50f4218c1ed0a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>idea_type</sys_name>
+            <sys_package display_value="NeedIt" source="x_883564_needit">6863ae2407f551107a50f4218c1ed017</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6863ae2407f551107a50f4218c1ed017</sys_scope>
+            <sys_update_name>sys_choice_x_883564_needit_innovative_idea_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-10 17:48:43</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- New choice --</label>
+            <language>en</language>
+            <name>x_883564_needit_innovative</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-10 17:48:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e739216607b519107a50f4218c1ed0a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-10 17:48:43</sys_updated_on>
+            <value>-- New choice --</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
